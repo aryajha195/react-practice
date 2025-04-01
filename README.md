@@ -1,1 +1,2 @@
-# react-practice
+Dev Dependency: Parcel is installed as dev dependency as it is used to bundle apps minify code etc used in only development not in production.
+carot vs tilde: carot update the small versions but tilde upgrades the greater versions

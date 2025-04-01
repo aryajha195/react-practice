@@ -1,0 +1,24 @@
+.searchInput {
+  width: 100%;
+  margin: auto;
+}
+
+.suggestions {
+  border: 1px solid gray;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+div ul li {
+  list-style: none;
+}
+
+div ul li:hover {
+  background: #ffe3be;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+}
+/*# sourceMappingURL=React-practice.aa436662.css.map */
